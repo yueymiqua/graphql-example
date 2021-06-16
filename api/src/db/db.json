@@ -1,0 +1,29 @@
+{
+  "user": {
+      "id": "jBWMVGjm50l6LGwepDoty",
+      "username": "frontendmaster"
+    },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "2000-10-08",
+      "name": "Moose",
+      "type": "DOG",
+      "user": "frontendmaster"
+    },
+    {
+      "id": "2",
+      "createdAt": "2010-11-06",
+      "name": "Daryl",
+      "type": "CAT",
+      "user": "frontendmaster"
+    },
+    {
+      "id": "gxzMs3t-2edo0kZ9DJ4-d",
+      "createdAt": 1623817487561,
+      "name": "Todd",
+      "type": "FROG",
+      "user": "frontendmaster"
+    }
+  ]
+}
